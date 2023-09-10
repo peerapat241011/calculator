@@ -1,0 +1,23 @@
+body {
+    background-color: #FFFFDD;
+    color: #435334;
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+.calculator {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5px;    
+}
+
+button {
+    background-color: #557A46;
+    color: #FFFFDD;
+    border: none;
+    padding: 10px ;    
+}
+
+
